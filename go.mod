@@ -1,4 +1,4 @@
-module github.com/tanc7/EXOCET-AV-Evasion
+module github.com/hillelpinto/EXOCET-AV-Evasion
 
 go 1.15
 
